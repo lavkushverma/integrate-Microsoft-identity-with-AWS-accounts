@@ -324,6 +324,7 @@ Download this XML file.
    ```
    arn:aws:iam::123456789012:saml-provider/AzureAD
    ```
+<img width="780" height="419" alt="image" src="https://github.com/user-attachments/assets/41b04204-cbdb-45f7-9d1d-69644745b55a" />
 
 **Via AWS CLI:**
 
