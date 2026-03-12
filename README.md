@@ -326,11 +326,11 @@ Download this XML file.
    ```
 <img width="780" height="419" alt="image" src="https://github.com/user-attachments/assets/74d820fa-1060-41f7-b684-e279ce4d8b93" />
 
-```
+-------
 
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/bea1fbcd-1f63-4a85-bfa8-d27936429eb4" />
 
- ````  
+
 **Via AWS CLI:**
 
 ```bash
@@ -360,12 +360,12 @@ aws iam create-saml-provider \
 9. **Role name:** `Azure-Admin-Role`
 10. **Description:** `Administrator access via Azure AD SSO`
 11. Click **Create role**
- ```
+
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/2c06d998-3701-40cc-be0f-42e134303f6b" />
-```
+
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/e12a68c9-b86d-4e4a-8a55-17b2e918f18c" />
 
-```
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2e193c5-faea-4744-a5af-34ac85dad523" />
 
 ```
